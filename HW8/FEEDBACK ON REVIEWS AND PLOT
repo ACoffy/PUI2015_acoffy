@@ -1,0 +1,61 @@
+you reviews were good 10/10
+
+NOTES ON YOUR PLOT
+=================================
+
+this is a tableau like visualization more than a plot
+
+it is a little crowded (remember the rule of 7 elements max) but well organized, so still readable
+
+the legend does not need the title legend
+
+the cardinal pints cloud be indicated more elegantly and simply by 2 arrows 
+
+the data shown is ambiguous and the legend does not help at all: less than 250 what? (crimes presumably but not clear) and what is the difference in what is plotted by points and colored areas?
+
+poverty level and serious crimes labels miss units
+
+the size scale with the three steps per unit is crowding the plot and it is redundant
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+=================================
+
+
+
+Jhuang
+======
+unmotivated empty space to the right
+
+the choice of red single color is "aggressive" to the sight, which may or may not be the desired effect given context. but it is a color that does not comply well with color blindness, so if that is the desired effect it would be lost in 10% of the male population
+
+axis labels a bit small
+
+vmotupalli
+==========
+
+
+this is a tableau style visualization, not a plot (in fact a full poster)
+
+as a poster it probably works well. 
+
+if considered as a visualization it is too busy, fonts are too small. 
+
+lets take the bottom panels as the plot: most panels cannot actually be judged because at the resolution at which i get the plots the legends are not readable.
+
+the maps seem very busy: the gray structure underlying the dots/areas is probably unnecessary
+
+even at full res i cannot imagine that the plots on the right would have axis labels and tick labels large enough. there is a lot of empthy space on the left of the center right panel. probably it should be removed.
+
+
+yuqiaocen
+========
+
+the plot is very busy. 
+
+no point in starting at the negative range: remove the <0 space
+
+two legends for the regression lines and the datapoints may be better: clearer less overwhelming
+
+association of color to rage triggers preconceptions. since you have few categories shapes may be a better choice.
+
